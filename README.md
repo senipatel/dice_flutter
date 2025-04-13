@@ -46,4 +46,4 @@ Seni Patel – GitHub Profile
 ---
 
 ## 🙌 Acknowledgements
-This project is inspired by the "Dicee" app from the Flutter Development Bootcamp with Dart by Dr. Angela Yu.
+   - This project is inspired by the "Dicee" app from the Flutter Development Bootcamp with Dart by Dr. Angela Yu.
